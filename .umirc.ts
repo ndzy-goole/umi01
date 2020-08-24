@@ -13,5 +13,6 @@ export default defineConfig({
   routes: [
     { path: '/', component: '@/pages/index', title: '主页' },
     { path: '/dva', component: '@/pages/dva', title: 'dva' },
+    { path: '/dva1', component: '@/pages/dva1', title: 'dva1' },
   ],
 });
