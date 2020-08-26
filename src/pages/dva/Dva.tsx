@@ -16,17 +16,12 @@ export default connect(({ dvaTest }) => {
       callback: res => {
         setList(res);
         console.log(res);
-        console.log('callback:', res);
       },
     });
   };
   return (
     <div>
       <Button onClick={api}>dva</Button>
-
-      {'list'}
-      {list}
-      <br />
       {'list_'}
       {list_}
     </div>
