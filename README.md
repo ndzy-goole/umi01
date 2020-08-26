@@ -1,15 +1,15 @@
-# umi project
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: 张一
+ * @Date: 2020-08-24 17:12:03
+ * @LastEditors: 张一
+ * @LastEditTime: 2020-08-26 08:45:02
+-->
 
-## Getting Started
+# umijs
+# tailwindcss
 
-Install dependencies,
-
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
+~~~
+yarn add tailwindcss postcss-cli autoprefixer -D
+~~~
